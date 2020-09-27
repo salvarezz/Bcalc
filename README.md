@@ -1,4 +1,5 @@
 # bcalc
+A simple calculator example created with Vuejs and Vuetify, to test the capabilities of Cypress.io testing tool. 
 
 ## Project setup
 ```
